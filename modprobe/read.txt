@@ -1,0 +1,7 @@
+make
+make install
+sudo modprobe <filename>
+sudo modprobe -r <filename>
+sudo dmesg
+make clean
+exit

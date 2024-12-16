@@ -1,0 +1,3 @@
+0x72f367e8	add	/home/priyanshu/linuxdriver/modprobe/add	EXPORT_SYMBOL	
+0x9ae26ba9	sub	/home/priyanshu/linuxdriver/modprobe/sub	EXPORT_SYMBOL	
+0x8deed393	mul	/home/priyanshu/linuxdriver/modprobe/mul	EXPORT_SYMBOL	
